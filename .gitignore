@@ -112,3 +112,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+node_modules/
+
+mnist/package-lock.json
+mnist/package.json
